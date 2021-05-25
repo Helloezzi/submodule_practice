@@ -1,0 +1,3 @@
+[submodule "SubProject"]
+	path = SubProject
+	url = D:\\Study\\git submodule test\\SubProject
